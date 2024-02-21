@@ -2,3 +2,7 @@
 
 Povezan projekati: 
 - [PMFKG](https://github.com/studnetwork/PMFKG) - projekat koji sadrži materija (beleške, rešenja, ...) koji je kreiran od strane studenata.
+
+---
+
+Ukoliko želite da kreirate novi kurs, posetite [stranicu sa uputstvima](.\uputstvo.md).
