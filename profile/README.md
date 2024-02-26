@@ -5,4 +5,4 @@ Povezan projekati:
 
 ---
 
-Ukoliko želite da kreirate novi kurs, posetite [stranicu sa uputstvima](./uputstvo.md).
+Ukoliko želite da kreirate novi kurs, posetite [stranicu sa uputstvima](https://imioer.github.io/uputstva#uputstvo-za-kreiranje-kursa).
